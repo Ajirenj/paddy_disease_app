@@ -3,3 +3,4 @@ pandas
 keras
 opencv-python
 streamlit
+tensorflow
