@@ -1,1 +1,5 @@
-
+numpy 
+pandas
+keras
+opencv-python
+streamlit
